@@ -1,2 +1,3 @@
-# keytool-main-key.txt
-dsđ
+key = ['tuan', 'anh','thanh','long']
+user_device = ['']
+key_user_device = ['']
